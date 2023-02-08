@@ -2,7 +2,7 @@
 layout: post
 title: post-sample
 date: 2022-02-08 19:43:23 +0900
-category: bigdata , machinelearning
+category: bigdata
 ---
 
 **
