@@ -3,7 +3,7 @@ layout: post
 title: make web page with github
 date: 2023-02-09 23:18 +0800
 last_modified_at: 2023-02-09 23:18 +0800
-tags: [github, jekyll]
+tags: github
 toc:  true
 ---
 
