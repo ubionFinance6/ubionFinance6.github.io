@@ -6,27 +6,7 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [github theme, jekyll, tutorial]
 toc:  true
 ----
-
-Github를 이용해 [정적(Static) 페이지(Page)](https://ko.wikipedia.org/wiki/%EC%A0%95%EC%A0%81_%EC%9B%B9_%ED%8E%98%EC%9D%B4%EC%A7%80)를 제작해 개발 및 자신의 도메인영역을 정리하는 블로그를 만들어 보도록 하겠습니다.
-
-항상 공식 가이드를 참조하는 것이 중요하므로 아래와 같이 공식 가이드 링크가 있으니 꼭 보시길 바랍니다.
-
-[
-Getting started with GitHub Pages - GitHub Docs
-Getting started with GitHub Pages You can set up a basic GitHub Pages site for yourself, your organization, or your project. GitHub Pages is available in public repositories with GitHub Free and GitHub Free for organizations, and in public and private repo
-docs.github.com](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages)
-
-- Github페이지 회원 가입 및 로그인
     
-    ![Untitled](GitHub%20Web%20Page%201af04c28f6e84b559f992afd6e6c7d57/Untitled.png)
-    
-    위와 같은 페이지에서 회원가입 및 로그인을 진행한다.
-    
-    ![Untitled](GitHub%20Web%20Page%201af04c28f6e84b559f992afd6e6c7d57/Untitled%201.png)
-    
-    웹페이지의 버전에 따라 다를 수 있지만 제가 현재 가입당시 처음 로그인 페이지 모습입니다.
-    
-
 - Github에 webpage 만들기
 
 ![Untitled](GitHub%20Web%20Page%201af04c28f6e84b559f992afd6e6c7d57/Untitled%202.png)
