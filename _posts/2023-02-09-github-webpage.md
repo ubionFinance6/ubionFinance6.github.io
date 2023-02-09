@@ -1,13 +1,12 @@
 ---
 layout: post
-title: make web page with github
-date: 2023-02-09 23:18 +0800
-last_modified_at: 2023-02-09 23:18 +0800
-tags: github
-toc:  true
+title: make website with github
+author: Songzi Vong
+tags:
+- github theme
+- jekyll
+date: 2023-02-09 13:56 +0800
 ---
-
-# GitHub Web Page
 
 Github를 이용해 [정적(Static) 페이지(Page)](https://ko.wikipedia.org/wiki/%EC%A0%95%EC%A0%81_%EC%9B%B9_%ED%8E%98%EC%9D%B4%EC%A7%80)를 제작해 개발 및 자신의 도메인영역을 정리하는 블로그를 만들어 보도록 하겠습니다.
 
